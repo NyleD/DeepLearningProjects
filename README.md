@@ -38,7 +38,7 @@ https://github.com/NyleD/JazzMusicGeneratorLSTM
 
 ### Football Kickout Classification
 https://github.com/NyleD/FootballKickoutClassification
-- Determining where the goalie in a football field should kick the ball to get the team possessionDetermining where the goalie in a football field should kick the ball to get the team possession. Used L2 and dropout regularisation techniques to reduce overfitting.  
+- Determining where the goalie in a football field should kick the ball to get the team possession.
 - Used L2 and dropout regularization techniques to reduce overfitting  
 
 ### Happy Face Detection 
