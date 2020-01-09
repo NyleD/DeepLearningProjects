@@ -1,10 +1,12 @@
 # Deep Learning Projects
 
 
-**Link to Certificates**
+**Certificate**
+https://www.coursera.org/account/accomplishments/specialization/SYX7ECYSZPUU
 
 **Personal Notes**
 These are detailed notes on the three month deep learning course from Coursera that I took. I have you covered from the in-depth workings of a Neural Network to Keras one liners!
+https://github.com/NyleD/DeepLearningProjects/blob/master/Deep%20Learning%20Speacialization.pdf
 
 ### YOLO Street Objects Detection
 https://github.com/NyleD/YOLOStreetObjectsDetection
