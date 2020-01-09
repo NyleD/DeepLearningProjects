@@ -4,7 +4,7 @@
 **Link to Certificates**
 
 **Personal Notes**
-These are detailed notes on the three month deep learning course from Coursera that I took while on my journey. I have you covered from the in-depth workings of a Neural Network to Keras one liners!
+These are detailed notes on the three month deep learning course from Coursera that I took. I have you covered from the in-depth workings of a Neural Network to Keras one liners!
 
 ### YOLO Street Objects Detection
 https://github.com/NyleD/YOLOStreetObjectsDetection
@@ -42,5 +42,6 @@ https://github.com/NyleD/FootballKickoutClassification
 - Used L2 and dropout regularization techniques to reduce overfitting  
 
 ### Happy Face Detection 
-- Detecting Happy Faces with Keras
 https://github.com/NyleD/HappyFaceDetection
+- Detecting Happy Faces with Keras
+
