@@ -9,7 +9,7 @@ These are detailed notes on the three month deep learning course from Coursera t
 The PDF is very big so github cuts it off, to view the full files checkout: <br>
 https://docs.google.com/document/d/13eH_aaA9qPN1_Y_yRn8QMTtz5tUmgslMurPg55RMmtg/edit?usp=sharing
 
-https://github.com/NyleD/DeepLearningProjects/blob/master/
+## Projects Code
 
 ### YOLO Street Objects Detection
 https://github.com/NyleD/YOLOStreetObjectsDetection
